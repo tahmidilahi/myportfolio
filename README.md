@@ -3,13 +3,13 @@
 ### Technical Skills: MS Excel, Power BI, Tableau, SAS Viya, SQL, Python (Pandas, NumPy, Matplotlib, Scikit-learn)
 
 ## Education
-- PGD, Business Analytics | Humber College, ON, Canada (_December 2024_)
-- B.Sc., Electrical and Electronic Engineering | Ahsanullah University of Science and Technology, Bangladesh (_October 2018_)
+PGD, Business Analytics | Humber College, ON, Canada (_December 2024_)
+B.Sc., Electrical and Electronic Engineering | Ahsanullah University of Science and Technology, Bangladesh (_October 2018_)
 
 ## Certificates
-- Professional Scrum Master™ I,_Scrum.org_ (_Sep 2024_)
-- Intermediate SQL,_DataCamp_ (_Jun 2024_)
-- Azure Data Fundamentals,_Microsoft_ (_Mar 2024_)
+- Professional Scrum Master™ I, _Scrum.org_ (_Sep 2024_)
+- Intermediate SQL, _DataCamp_ (_Jun 2024_)
+- Azure Data Fundamentals, _Microsoft_ (_Mar 2024_)
 
 ## Projects
 **Credit Card Fraud Detection using ML Models
