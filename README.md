@@ -3,14 +3,14 @@
 ### Technical Skills: MS Excel, Power BI, Tableau, SAS Viya, SQL, Python (Pandas, NumPy, Matplotlib, Scikit-learn)
 
 ## Education
-- **PGD, Business Analytics** | 
+- **PGD, Business Analytics**
 Humber College, ON, Canada (_December 2024_)
 
-- **B.Sc., Electrical and Electronic Engineering** | 
+- **B.Sc., Electrical and Electronic Engineering**
 Ahsanullah University of Science and Technology, Bangladesh (_October 2018_)
 
 ## Projects
-- **Credit Card Fraud Detection using ML Models**
+- **[Credit Card Fraud Detection using ML Models](https://github.com/tahmidilahi/credit_card_fraud_detection_algorithm)**
 - **Sales and Operation Analysis BI Dashboard for a Toronto Pizza Franchise**
 - **End-to-end BI Solution for A Packaging Company**
 
@@ -34,7 +34,7 @@ Korean Electric Power Corporation (_Jul 2019 - Feb 2021_)
 - Enhanced emergency response times by 15% by providing technical expertise in efficiency planning and project management, supporting the Shift Charge Engineer.
 
 ## Certificates
-<img src="assets/img/psm_badge.png" alt="Professional Scrum Master I" width="150" height="150"/> <img src="assets/img/int_sql_cert.png" alt="Intermediate SQL" width="199.5" height="150"/> <img src="assets/img/dp900_badge.png" alt="Azure Data Fundamentals" width="150" height="150"/> <br>
+<img src="assets/img/psm_badge.png" alt="Professional Scrum Master I" width="100" height="100"/> <img src="assets/img/int_sql_cert.png" alt="Intermediate SQL" width="175" height="100"/> <img src="assets/img/dp900_badge.png" alt="Azure Data Fundamentals" width="100" height="100"/> <br>
 
 Ordered from left to right: 
 - **Professional Scrum Master™ I**, _Scrum.org_ (_Sep 2024_) 
