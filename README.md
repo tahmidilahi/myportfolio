@@ -7,9 +7,9 @@ PGD, Business Analytics | Humber College, ON, Canada (_December 2024_)
 B.Sc., Electrical and Electronic Engineering | Ahsanullah University of Science and Technology, Bangladesh (_October 2018_)
 
 ## Certificates
-- ![Professional Scrum Master I](assets/img/psm_badge.png) **Professional Scrum Master™ I**, _Scrum.org_ (_Sep 2024_)
-- Intermediate SQL, _DataCamp_ (_Jun 2024_)
-- ![Azure Data Fundamentals](assets/img/dp900_badge.png) **Azure Data Fundamentals**, _Microsoft_ (_Mar 2024_)
+- <img src="assets/img/psm_badge.png" alt="Professional Scrum Master I" width="100" height="100"/> **Professional Scrum Master™ I**, _Scrum.org_ (_Sep 2024_)
+- <img src="assets/img/intermediate_sql_badge.png" alt="Intermediate SQL" width="100" height="100"/> **Intermediate SQL**, _DataCamp_ (_Jun 2024_)
+- <img src="assets/img/dp900_badge.png" alt="Azure Data Fundamentals" width="100" height="100"/> **Azure Data Fundamentals**, _Microsoft_ (_Mar 2024_)
 
 ## Projects
 **Credit Card Fraud Detection using ML Models
