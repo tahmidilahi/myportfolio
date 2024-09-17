@@ -3,13 +3,16 @@
 ### Technical Skills: MS Excel, Power BI, Tableau, SAS Viya, SQL, Python (Pandas, NumPy, Matplotlib, Scikit-learn)
 
 ## Education
-**PGD, Business Analytics** | Humber College, ON, Canada (_December 2024_)
-**B.Sc., Electrical and Electronic Engineering** | Ahsanullah University of Science and Technology, Bangladesh (_October 2018_)
+- **PGD, Business Analytics** 
+Humber College, ON, Canada (_December 2024_)
+
+- **B.Sc., Electrical and Electronic Engineering**
+Ahsanullah University of Science and Technology, Bangladesh (_October 2018_)
 
 ## Projects
-**Credit Card Fraud Detection using ML Models**
-**Sales and Operation Analysis BI Dashboard for a Toronto Pizza Franchise**
-**End-to-end BI Solution for A Packaging Company**
+- **Credit Card Fraud Detection using ML Models**
+- **Sales and Operation Analysis BI Dashboard for a Toronto Pizza Franchise**
+- **End-to-end BI Solution for A Packaging Company**
 
 ## Work Experience
 ### Deposit Monitoring Officer 
@@ -31,6 +34,9 @@ Korean Electric Power Corporation (_Jul 2019 - Feb 2021_)
 - Enhanced emergency response times by 15% by providing technical expertise in efficiency planning and project management, supporting the Shift Charge Engineer.
 
 ## Certificates
-- **Professional Scrum Master™ I**, _Scrum.org_ (_Sep 2024_) <img src="assets/img/psm_badge.png" alt="Professional Scrum Master I" width="100" height="100"/>
-- **Intermediate SQL**, _DataCamp_ (_Jun 2024_) <img src="assets/img/int_sql_cert.png" alt="Intermediate SQL" width="100" height="100"/> 
-- **Azure Data Fundamentals**, _Microsoft_ (_Mar 2024_) <img src="assets/img/dp900_badge.png" alt="Azure Data Fundamentals" width="100" height="100"/> 
+<img src="assets/img/psm_badge.png" alt="Professional Scrum Master I" width="100" height="100"/>
+- **Professional Scrum Master™ I**, _Scrum.org_ (_Sep 2024_) 
+<img src="assets/img/int_sql_cert.png" alt="Intermediate SQL" width="135" height="100"/>
+- **Intermediate SQL**, _DataCamp_ (_Jun 2024_)
+<img src="assets/img/dp900_badge.png" alt="Azure Data Fundamentals" width="100" height="100"/> 
+- **Azure Data Fundamentals**, _Microsoft_ (_Mar 2024_) 
