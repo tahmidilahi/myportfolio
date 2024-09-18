@@ -10,7 +10,7 @@
 **PGD, Business Insights and Analytics**   
 Humber College, Canada (_Dec 2024_)
 
-**B.Sc., Electrical and Electronic Engineering** | 
+**B.Sc., Electrical and Electronic Engineering**   
 Ahsanullah University of Science and Technology, Bangladesh (_Oct 2018_)
 
 ## <u>Projects</u>
