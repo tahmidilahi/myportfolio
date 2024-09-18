@@ -1,6 +1,12 @@
 # Data Analyst
 
-### Technical Skills: MS Excel, Power BI, Tableau, SAS Viya, SQL, Python (Pandas, NumPy, Matplotlib, Scikit-learn)
+### Technical Skills
+
+**Data Analysis & Visualization:**  
+MS Excel, Python (Pandas, NumPy, Matplotlib, Scikit-learn), Power BI, SAS Viya
+
+**Databases & Query Language:**  
+MySQL, SQL Server Management Studio, Hadoop (HDFS, Hive)
 
 ## <u>Education</u>
 **PGD, Business Insights and Analytics** | 
@@ -21,7 +27,7 @@ Ahsanullah University of Science and Technology, Bangladesh (_October 2018_)
 - Maintained monthly data accuracy rates exceeding 98% by optimizing data input processes.
 - Achieved a 20% improvement in performance goals within six months by executing targeted strategies to enhance payment monitoring.
 
-### Technical Manager</u> 
+### Technical Manager
 **Isabah Packaging and Accessories Industries (IPAI)** (_Feb 2021 - Dec 2022_)
 - Led the successful implementation of a CRM system and BI dashboard, driving real-time insights that resulted in a 3.7% increase in sales in Q3 2022.
 - Boosted production capacity by 13% and revenue by 6% through efficient project management and process improvements.
