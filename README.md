@@ -10,7 +10,7 @@
 
 ## <u>Education</u>
 **PGD, Business Insights and Analytics** | 
-Humber College, Canada (_October 2018_)
+Humber College, Canada (_Dec 2024_)
 
 **B.Sc., Electrical and Electronic Engineering** | 
 Ahsanullah University of Science and Technology, Bangladesh (_October 2018_)
