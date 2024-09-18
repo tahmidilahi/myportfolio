@@ -6,7 +6,7 @@
 **MS Excel, Python (Pandas, NumPy, Matplotlib, Scikit-learn), Power BI, SAS Viya**
 
 ### Databases & Query Language:   
-MySQL, SQL Server Management Studio, Hadoop (HDFS, Hive)
+**MySQL, SQL Server Management Studio, Hadoop (HDFS, Hive)**
 
 ## <u>Education</u>
 **PGD, Business Insights and Analytics** | 
