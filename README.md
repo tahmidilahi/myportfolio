@@ -2,14 +2,12 @@
 
 ## <u>Technical Skills</u>
 
-### Data Analysis & Visualization:    
-**MS Excel, Python (Pandas, NumPy, Matplotlib, Scikit-learn), Power BI, SAS Viya**
+### Data Analysis & Visualization: **MS Excel, Python (Pandas, NumPy, Matplotlib, Scikit-learn), Power BI, SAS Viya**
 
-### Databases & Query Language:   
-**MySQL, SQL Server Management Studio, Hadoop (HDFS, Hive)**
+### Databases & Query Language: **MySQL, SQL Server Management Studio, Hadoop (HDFS, Hive)**
 
 ## <u>Education</u>
-**PGD, Business Insights and Analytics** | 
+**PGD, Business Insights and Analytics**   
 Humber College, Canada (_Dec 2024_)
 
 **B.Sc., Electrical and Electronic Engineering** | 
