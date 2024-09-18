@@ -13,7 +13,7 @@
 Humber College, Canada (_Dec 2024_)
 
 **B.Sc., Electrical and Electronic Engineering** | 
-Ahsanullah University of Science and Technology, Bangladesh (_October 2018_)
+Ahsanullah University of Science and Technology, Bangladesh (_Oct 2018_)
 
 ## <u>Projects</u>
 - **[Credit Card Fraud Detection using ML Models](https://github.com/tahmidilahi/credit_card_fraud_detection_algorithm)**
