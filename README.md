@@ -40,7 +40,7 @@ Ahsanullah University of Science and Technology, Bangladesh (_October 2018_)
 - Enhanced emergency response times by 15% by providing technical expertise in efficiency planning and project management, supporting the Shift Charge Engineer.
 
 ## <u>Certificates</u>
-<img src="assets/img/psm_badge.png" alt="Professional Scrum Master I" width="100" height="100"/> <img src="assets/img/int_sql_cert.png" alt="Intermediate SQL" width="175" height="100"/> <img src="assets/img/dp900_badge.png" alt="Azure Data Fundamentals" width="100" height="100"/> <br>
+<img src="assets/img/psm_badge.png" alt="Professional Scrum Master I" width="100" height="100"/>  <img src="assets/img/int_sql_cert.png" alt="Intermediate SQL" width="175" height="100"/>  <img src="assets/img/dp900_badge.png" alt="Azure Data Fundamentals" width="100" height="100"/> <br>
 
 Ordered from left to right: 
 - **Professional Scrum Master™ I**, _Scrum.org_ (_Sep 2024_) 
