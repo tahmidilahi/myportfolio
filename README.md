@@ -2,7 +2,7 @@
 
 ## <u>Technical Skills</u>
 
-## #Data Analysis & Visualization:    
+### Data Analysis & Visualization:    
 MS Excel, Python (Pandas, NumPy, Matplotlib, Scikit-learn), Power BI, SAS Viya
 
 ### Databases & Query Language:   
