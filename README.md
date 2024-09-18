@@ -2,7 +2,7 @@
 
 ### Technical Skills: MS Excel, Power BI, Tableau, SAS Viya, SQL, Python (Pandas, NumPy, Matplotlib, Scikit-learn)
 
-<u>## Education</u>
+## <u>Education</u>
 **PGD, Business Insights and Analytics** | 
 Humber College, Canada (_October 2018_)
 
