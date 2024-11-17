@@ -37,7 +37,7 @@ Ahsanullah University of Science and Technology, Bangladesh (_Oct 2018_)
 - Boosted production capacity by 13% and revenue by 6% through efficient project management and process improvements.
 - Managed cross-functional teams on projects worth CAD 1.6 million, focusing on workforce safety, sustainable energy solutions, and production expansion.
 
-### Engineering Trainee   
+### Efficiency Engineer (Trainee)   
 @ Korean Electric Power Corporation (_Jul 2019 - Feb 2021_)
 - Enabled data-driven decisions and cost efficiency optimization by conducting comprehensive trend analysis of plant equipment and resources, leading stakeholders to initiate preventive maintenance.
 - Increased plant availability by 11% YoY by leveraging plant generation data to analyze fuel consumption, power output, and forecast power demand, facilitating data-driven decisions. 
