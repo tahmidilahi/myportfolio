@@ -16,7 +16,7 @@ Ahsanullah University of Science and Technology, Bangladesh (_Oct 2018_)
 ## <u>Projects</u>
 - **[Credit Card Fraud Detection using ML Models](https://github.com/tahmidilahi/credit_card_fraud_detection_algorithm)**
 - **[Sales and Operation Analysis BI Dashboard for a Toronto Pizza Franchise](https://github.com/tahmidilahi/bi_dashboard/tree/main)**
-- **End-to-end BI Solution for A Packaging Company**
+- **[Demographic and Socioeconomic Analysis Using R](https://github.com/tahmidilahi/midwest_data_analysis_R)**
 
 ## <u>Work Experience</u>
 ### Deposit Monitoring Officer   
