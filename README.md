@@ -19,6 +19,12 @@ Ahsanullah University of Science and Technology, Bangladesh (_Oct 2018_)
 - **[Demographic and Socioeconomic Analysis Using R](https://github.com/tahmidilahi/midwest_data_analysis_R)**
 
 ## <u>Work Experience</u>
+### Data Analyst    
+@ Humber Polytechnic (_Sep 2024 - Dec 2024_)
+- Spearheaded development of an Excel-based alumni database, enabling faculty to efficiently track and manage alumni data.
+- Utilized MS Excel and Power BI to enhance database functionality by adding dynamic filters, streamlining alumni look-up processes and improving data accessibility, reducing data retrieval time by 30%.
+- Applied Agile methodologies to ensure efficient task delegation and milestone completion ahead of schedule, contributing to a streamlined project workflow and enhanced project delivery by 20%.
+  
 ### Deposit Monitoring Officer   
 @ Royal Bank of Canada (_Jun 2023 - Apr 2024_)
 - Streamlined payment processing workflows through trend and anomaly analysis, improving operational efficiency and reducing processing time.
